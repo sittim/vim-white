@@ -1,0 +1,122 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+X	colors/white.vim	/^  fun <sid>X(group, fg, bg, attr)$/;"	f
+color	colors/white.vim	/^  fun <SID>color(r, g, b)$/;"	f
+g:colors_name	colors/one-dark.vim	/^let g:colors_name="one-dark"$/;"	v
+g:colors_name	colors/white.vim	/^let g:colors_name = 'white'$/;"	v
+g:lightline#colorscheme#white#palette	autoload/lightline/white.vim	/^let g:lightline#colorscheme#white#palette = lightline#colorscheme#fill(s:p)$/;"	v
+g:terminal_color_0	colors/white.vim	/^  let g:terminal_color_0  = "#353a44"$/;"	v
+g:terminal_color_1	colors/white.vim	/^  let g:terminal_color_1  = "#e88388"$/;"	v
+g:terminal_color_10	colors/white.vim	/^  let g:terminal_color_10 = "#a7cc8c"$/;"	v
+g:terminal_color_11	colors/white.vim	/^  let g:terminal_color_11 = "#ebca8d"$/;"	v
+g:terminal_color_12	colors/white.vim	/^  let g:terminal_color_12 = "#72bef2"$/;"	v
+g:terminal_color_13	colors/white.vim	/^  let g:terminal_color_13 = "#d291e4"$/;"	v
+g:terminal_color_14	colors/white.vim	/^  let g:terminal_color_14 = "#65c2cd"$/;"	v
+g:terminal_color_15	colors/white.vim	/^  let g:terminal_color_15 = "#e3e5e9"$/;"	v
+g:terminal_color_2	colors/white.vim	/^  let g:terminal_color_2  = "#a7cc8c"$/;"	v
+g:terminal_color_3	colors/white.vim	/^  let g:terminal_color_3  = "#ebca8d"$/;"	v
+g:terminal_color_4	colors/white.vim	/^  let g:terminal_color_4  = "#72bef2"$/;"	v
+g:terminal_color_5	colors/white.vim	/^  let g:terminal_color_5  = "#d291e4"$/;"	v
+g:terminal_color_6	colors/white.vim	/^  let g:terminal_color_6  = "#65c2cd"$/;"	v
+g:terminal_color_7	colors/white.vim	/^  let g:terminal_color_7  = "#e3e5e9"$/;"	v
+g:terminal_color_8	colors/white.vim	/^  let g:terminal_color_8  = "#353a44"$/;"	v
+g:terminal_color_9	colors/white.vim	/^  let g:terminal_color_9  = "#e88388"$/;"	v
+g:white_allow_italics	colors/white.vim	/^  let g:white_allow_italics = 0$/;"	v
+grey_color	colors/white.vim	/^  fun <SID>grey_color(n)$/;"	f
+grey_level	colors/white.vim	/^  fun <SID>grey_level(n)$/;"	f
+grey_number	colors/white.vim	/^  fun <SID>grey_number(x)$/;"	f
+rgb	colors/white.vim	/^  fun <SID>rgb(rgb)$/;"	f
+rgb_color	colors/white.vim	/^  fun <SID>rgb_color(x, y, z)$/;"	f
+rgb_level	colors/white.vim	/^  fun <SID>rgb_level(n)$/;"	f
+rgb_number	colors/white.vim	/^  fun <SID>rgb_number(x)$/;"	f
+s:bg	autoload/lightline/white.vim	/^  let s:bg     = '#282c34'$/;"	v
+s:bg	autoload/lightline/white.vim	/^  let s:bg     = '#f8f8f8'$/;"	v
+s:blue	autoload/lightline/white.vim	/^let s:blue   = '#0087d7'$/;"	v
+s:fg	autoload/lightline/white.vim	/^let s:fg     = '#abb2bf'$/;"	v
+s:gray1	autoload/lightline/white.vim	/^  let s:gray1  = '#494b53'$/;"	v
+s:gray1	autoload/lightline/white.vim	/^  let s:gray1  = '#5c6370'$/;"	v
+s:gray2	autoload/lightline/white.vim	/^  let s:gray2  = '#2c323d'$/;"	v
+s:gray2	autoload/lightline/white.vim	/^  let s:gray2  = '#f0f0f0'$/;"	v
+s:gray3	autoload/lightline/white.vim	/^  let s:gray3  = '#3e4452'$/;"	v
+s:gray3	autoload/lightline/white.vim	/^  let s:gray3  = '#d0d0d0'$/;"	v
+s:green	autoload/lightline/white.vim	/^let s:green  = '#558811'$/;"	v
+s:hue_1	colors/white.vim	/^    let s:hue_1  = '0184bc' " cyan$/;"	v
+s:hue_1	colors/white.vim	/^    let s:hue_1  = '56b6c2' " cyan$/;"	v
+s:hue_2	colors/white.vim	/^    let s:hue_2  = '4078f2' " blue$/;"	v
+s:hue_2	colors/white.vim	/^    let s:hue_2  = '61afef' " blue$/;"	v
+s:hue_3	colors/white.vim	/^    let s:hue_3  = 'a626a4' " purple$/;"	v
+s:hue_3	colors/white.vim	/^    let s:hue_3  = 'c678dd' " purple$/;"	v
+s:hue_4	colors/white.vim	/^    let s:hue_4  = '50a14f' " green$/;"	v
+s:hue_4	colors/white.vim	/^    let s:hue_4  = '98c379' " green$/;"	v
+s:hue_5	colors/white.vim	/^    let s:hue_5   = 'e06c75' " red 1$/;"	v
+s:hue_5	colors/white.vim	/^    let s:hue_5   = 'e45649' " red 1$/;"	v
+s:hue_5_2	colors/white.vim	/^    let s:hue_5_2 = 'be5046' " red 2$/;"	v
+s:hue_5_2	colors/white.vim	/^    let s:hue_5_2 = 'ca1243' " red 2$/;"	v
+s:hue_6	colors/white.vim	/^    let s:hue_6   = '986801' " orange 1$/;"	v
+s:hue_6	colors/white.vim	/^    let s:hue_6   = 'd19a66' " orange 1$/;"	v
+s:hue_6_2	colors/white.vim	/^    let s:hue_6_2 = 'c18401' " orange 2$/;"	v
+s:hue_6_2	colors/white.vim	/^    let s:hue_6_2 = 'e5c07b' " orange 2$/;"	v
+s:mono_1	colors/white.vim	/^    let s:mono_1 = '494b53'$/;"	v
+s:mono_1	colors/white.vim	/^    let s:mono_1 = 'abb2bf'$/;"	v
+s:mono_2	colors/white.vim	/^    let s:mono_2 = '696c77'$/;"	v
+s:mono_2	colors/white.vim	/^    let s:mono_2 = '828997'$/;"	v
+s:mono_3	colors/white.vim	/^    let s:mono_3 = '5c6370'$/;"	v
+s:mono_3	colors/white.vim	/^    let s:mono_3 = 'a0a1a7'$/;"	v
+s:mono_4	colors/white.vim	/^    let s:mono_4 = '4b5263'$/;"	v
+s:mono_4	colors/white.vim	/^    let s:mono_4 = 'c2c2c3'$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.left   = [ [ s:bg,  s:gray3 ], [ s:bg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.left   = [ [ s:gray1,  s:bg ], [ s:gray1, s:bg ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.middle = [ [ s:gray1, s:gray2 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.middle = [ [ s:gray3, s:gray2 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.right  = [ [ s:bg, s:gray3 ], [ s:bg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.inactive.right  = [ [ s:gray1, s:bg ], [ s:gray1, s:bg ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.insert.left     = [ [ s:bg, s:pink ], [ s:fg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.insert.left     = [ [ s:bg, s:pink ], [ s:gray1, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.normal.left     = [ [ s:bg, s:blue ], [ s:gray1, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.normal.left     = [ [ s:bg, s:green, 'bold' ], [ s:fg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.normal.middle   = [ [ s:fg, s:gray2 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.normal.middle   = [ [ s:gray1, s:bg ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.replace.left    = [ [ s:bg, s:red1 ], [ s:gray1, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.replace.left    = [ [ s:bg, s:red1, 'bold' ], [ s:fg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.visual.left     = [ [ s:bg, s:purple ], [ s:gray1, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^  let s:p.visual.left     = [ [ s:bg, s:purple, 'bold' ], [ s:fg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.insert.right   = [ [ s:bg, s:pink ], [ s:bg, s:pink ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.normal.error   = [ [ s:red2,   s:bg ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.normal.right   = [ [ s:bg, s:blue ], [ s:bg, s:blue ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.normal.warning = [ [ s:yellow, s:bg ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.replace.right  = [ [ s:bg, s:red1 ], [ s:bg, s:red1 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.tabline.left   = [ [ s:bg, s:gray3 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.tabline.middle = [ [ s:gray3, s:gray2 ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.tabline.right  = copy(s:p.normal.right)$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.tabline.tabsel = [ [ s:bg, s:purple, 'bold' ] ]$/;"	v
+s:p	autoload/lightline/white.vim	/^let s:p.visual.right   = [ [ s:bg, s:purple ], [ s:bg, s:purple ] ]$/;"	v
+s:pink	autoload/lightline/white.vim	/^let s:pink   = '#f279c5'$/;"	v
+s:pmenu	colors/white.vim	/^    let s:pmenu        = '333841'$/;"	v
+s:pmenu	colors/white.vim	/^    let s:pmenu        = 'dfdfdf'$/;"	v
+s:purple	autoload/lightline/white.vim	/^let s:purple = '#7f3f67'$/;"	v
+s:red1	autoload/lightline/white.vim	/^let s:red1   = '#992266'$/;"	v
+s:red2	autoload/lightline/white.vim	/^let s:red2   = '#881155'$/;"	v
+s:special_grey	colors/white.vim	/^    let s:special_grey = '3b4048'$/;"	v
+s:special_grey	colors/white.vim	/^    let s:special_grey = 'd3d3d3'$/;"	v
+s:syntax_accent	colors/white.vim	/^    let s:syntax_accent = '526fff'$/;"	v
+s:syntax_accent	colors/white.vim	/^    let s:syntax_accent = '528bff'$/;"	v
+s:syntax_accent_2	colors/white.vim	/^    let s:syntax_accent_2 = '0083be'$/;"	v
+s:syntax_bg	colors/white.vim	/^    let s:syntax_bg     = '282c34'$/;"	v
+s:syntax_bg	colors/white.vim	/^    let s:syntax_bg     = 'ffffff'$/;"	v
+s:syntax_cursor	colors/white.vim	/^    let s:syntax_cursor = '2c323c'$/;"	v
+s:syntax_cursor	colors/white.vim	/^    let s:syntax_cursor = 'f0f0f0'$/;"	v
+s:syntax_fg	colors/white.vim	/^  let s:syntax_fg = s:mono_1$/;"	v
+s:syntax_fold_bg	colors/white.vim	/^  let s:syntax_fold_bg = s:mono_3$/;"	v
+s:syntax_gutter	colors/white.vim	/^    let s:syntax_gutter = '636d83'$/;"	v
+s:syntax_gutter	colors/white.vim	/^    let s:syntax_gutter = '9e9e9e'$/;"	v
+s:vertsplit	colors/white.vim	/^    let s:vertsplit    = '181a1f'$/;"	v
+s:vertsplit	colors/white.vim	/^    let s:vertsplit    = 'e7e9e1'$/;"	v
+s:visual_grey	colors/white.vim	/^    let s:visual_grey  = '3e4452'$/;"	v
+s:visual_grey	colors/white.vim	/^    let s:visual_grey  = 'd0d0d0'$/;"	v
+s:yellow	autoload/lightline/white.vim	/^let s:yellow = '#ddddbb'$/;"	v
+white#highlight	colors/white.vim	/^  function! white#highlight(group, fg, bg, attr)$/;"	f
