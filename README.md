@@ -1,4 +1,4 @@
-![Logo][logo]
+![Logo][logo.png]
 
 Light vim colorscheme, shamelessly stolen from atom (another excellent text
 editor). **One** supports *true colors* and falls back gracefully and
