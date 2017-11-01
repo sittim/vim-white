@@ -1,9 +1,8 @@
 ![Logo][logo]
 
-Light and dark vim colorscheme, shamelessly stolen from atom (another
-excellent text editor). **One** supports *true colors* and falls back
-gracefully and automatically if your environment does not support this
-feature.
+Light vim colorscheme, shamelessly stolen from atom (another excellent text
+editor). **One** supports *true colors* and falls back gracefully and
+automatically if your environment does not support this feature.
 
 ## Vim Airline theme
 
